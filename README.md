@@ -1,8 +1,8 @@
 # pyNblib
 
-Yet an other bytestring lib
+- Yet an other bytestring lib
 
-#You can turn:
+# You can turn:
 
 - this '010203' into '☺☻♥'
 - this '☺☻♥' into 66051
